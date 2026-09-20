@@ -1,0 +1,39 @@
+{
+  "model": "ideal normalized real multiplier; no loading; example A peak voltage",
+  "rf_Hz": 2450000000.0,
+  "lo_Hz": 2440000000.0,
+  "difference_Hz": 10000000.0,
+  "sum_Hz": 4890000000.0,
+  "rf_edges_Hz": [
+    2449000000.0,
+    2451000000.0
+  ],
+  "if_edges_Hz": [
+    9000000.0,
+    11000000.0
+  ],
+  "sum_edges_Hz": [
+    4889000000.0,
+    4891000000.0
+  ],
+  "voltage_peaks_V": [
+    0.0002,
+    0.002,
+    0.001,
+    0.005
+  ],
+  "image_Hz": 2430000000.0,
+  "one_pF_Xc_at_2p45GHz_ohm": 64.9612012619981,
+  "one_pF_Xc_at_10MHz_ohm": 15915.494309189533,
+  "noise_example_without_LNA_uV_RMS": 10.04987562112089,
+  "noise_example_with_LNA_uV_RMS": 17.320508075688775,
+  "snr_without_LNA_linear": 0.9900990099009901,
+  "snr_with_LNA_linear": 33.333333333333336,
+  "exercise_highside_if_Hz": 10000000.0,
+  "exercise_highside_image_Hz": 2470000000.0,
+  "exercise_changed_lo_if_Hz": 11000000.0,
+  "exercise_changed_lo_edges_Hz": [
+    10000000.0,
+    12000000.0
+  ]
+}

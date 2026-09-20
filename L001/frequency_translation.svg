@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="54" y="58" font-family="Microsoft YaHei, sans-serif" font-size="34" fill="#172b4d">同一段信息，搬到不同的中心频率</text>
+<text x="54" y="105" font-family="Microsoft YaHei, sans-serif" font-size="25" fill="#172b4d">理想实数混频：RF 2450 MHz × LO 2440 MHz</text>
+<text x="54" y="164" font-family="Microsoft YaHei, sans-serif" font-size="24" fill="#2563eb">RF 输入</text>
+<text x="54" y="201" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#172b4d">中心 2450 MHz</text>
+<rect x="525.0" y="175" width="390.0" height="70" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<text x="630" y="215" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#2563eb">带宽 2 MHz</text>
+<line x1="330" y1="245" x2="1110" y2="245" stroke="#65758b" stroke-width="2"/>
+<line x1="330.0" y1="245" x2="330.0" y2="254" stroke="#65758b" stroke-width="2"/>
+<text x="301.0" y="281" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">2448</text>
+<line x1="525.0" y1="245" x2="525.0" y2="254" stroke="#65758b" stroke-width="2"/>
+<text x="496.0" y="281" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">2449</text>
+<line x1="720.0" y1="245" x2="720.0" y2="254" stroke="#65758b" stroke-width="2"/>
+<text x="691.0" y="281" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">2450</text>
+<line x1="915.0" y1="245" x2="915.0" y2="254" stroke="#65758b" stroke-width="2"/>
+<text x="886.0" y="281" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">2451</text>
+<line x1="1110.0" y1="245" x2="1110.0" y2="254" stroke="#65758b" stroke-width="2"/>
+<text x="1081.0" y="281" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">2452</text>
+<text x="1060" y="312" font-family="Microsoft YaHei, sans-serif" font-size="19" fill="#172b4d">MHz</text>
+<text x="54" y="349" font-family="Microsoft YaHei, sans-serif" font-size="24" fill="#0f766e">差频输出 · 保留</text>
+<text x="54" y="386" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#172b4d">中心 10 MHz</text>
+<rect x="525.0" y="360" width="390.0" height="70" fill="#ccfbf1" stroke="#0f766e" stroke-width="2"/>
+<text x="630" y="400" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#0f766e">带宽 2 MHz</text>
+<line x1="330" y1="430" x2="1110" y2="430" stroke="#65758b" stroke-width="2"/>
+<line x1="330.0" y1="430" x2="330.0" y2="439" stroke="#65758b" stroke-width="2"/>
+<text x="301.0" y="466" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">8</text>
+<line x1="525.0" y1="430" x2="525.0" y2="439" stroke="#65758b" stroke-width="2"/>
+<text x="496.0" y="466" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">9</text>
+<line x1="720.0" y1="430" x2="720.0" y2="439" stroke="#65758b" stroke-width="2"/>
+<text x="691.0" y="466" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">10</text>
+<line x1="915.0" y1="430" x2="915.0" y2="439" stroke="#65758b" stroke-width="2"/>
+<text x="886.0" y="466" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">11</text>
+<line x1="1110.0" y1="430" x2="1110.0" y2="439" stroke="#65758b" stroke-width="2"/>
+<text x="1081.0" y="466" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">12</text>
+<text x="1060" y="497" font-family="Microsoft YaHei, sans-serif" font-size="19" fill="#172b4d">MHz</text>
+<text x="54" y="534" font-family="Microsoft YaHei, sans-serif" font-size="24" fill="#64748b">和频输出 · 滤除</text>
+<text x="54" y="571" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#172b4d">中心 4890 MHz</text>
+<rect x="525.0" y="545" width="390.0" height="70" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+<text x="630" y="585" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#64748b">带宽 2 MHz</text>
+<line x1="330" y1="615" x2="1110" y2="615" stroke="#65758b" stroke-width="2"/>
+<line x1="330.0" y1="615" x2="330.0" y2="624" stroke="#65758b" stroke-width="2"/>
+<text x="301.0" y="651" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">4888</text>
+<line x1="525.0" y1="615" x2="525.0" y2="624" stroke="#65758b" stroke-width="2"/>
+<text x="496.0" y="651" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">4889</text>
+<line x1="720.0" y1="615" x2="720.0" y2="624" stroke="#65758b" stroke-width="2"/>
+<text x="691.0" y="651" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">4890</text>
+<line x1="915.0" y1="615" x2="915.0" y2="624" stroke="#65758b" stroke-width="2"/>
+<text x="886.0" y="651" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">4891</text>
+<line x1="1110.0" y1="615" x2="1110.0" y2="624" stroke="#65758b" stroke-width="2"/>
+<text x="1081.0" y="651" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#172b4d">4892</text>
+<text x="1060" y="682" font-family="Microsoft YaHei, sans-serif" font-size="19" fill="#172b4d">MHz</text>
+<text x="54" y="739" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#172b4d">只画正频率；各行使用局部频率轴。矩形表示占用范围，不表示真实谱形。</text>
+<text x="54" y="774" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#172b4d">三行高度不比较幅度；理想单位余弦相乘的和频、差频电压系数均为 1/2。</text>
+</svg>
