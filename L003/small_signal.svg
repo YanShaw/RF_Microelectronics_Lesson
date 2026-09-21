@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="570" viewBox="0 0 1040 570">
+<rect width="1040" height="570" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="21" fill="#16324f">
+<text x="35" y="38" font-size="26">L003: NMOS small-signal equivalent (body tied to source)</text>
+<text x="35" y="75">All ground symbols share the same AC reference.</text>
+<text x="115" y="235">v_in = v_g</text><text x="175" y="165">G</text>
+<text x="310" y="190">g_m v_gs</text><text x="505" y="235">r_o</text>
+<text x="666" y="235">R_D</text><text x="930" y="235">R_L</text>
+<text x="360" y="130">D</text><text x="907" y="130">v_out = v_d</text>
+<text x="354" y="333">S</text><text x="455" y="405">R_S</text>
+<text x="625" y="405">C_S (optional)</text>
+<text x="115" y="280">v_gs = v_g - v_s</text><text x="115" y="310">i_d positive: D to S</text>
+<text x="35" y="525">Gain: keep R_L. Output resistance: remove R_L, set v_in = 0, test at D.</text>
+<text x="35" y="554">R_S = 0: grounded source. Bypassed R_S: C_S is an AC short in the stated band.</text>
+</g>
+<g stroke="#16324f" stroke-width="2.5" fill="none">
+<path d="M80 180 H185 M80 180 V210 M80 260 V350"/>
+<circle cx="80" cy="235" r="25"/>
+<path d="M72 225 H88 M80 217 V233 M72 245 H88 M64 350 H96 M69 357 H91 M75 364 H85"/>
+<path d="M400 145 H900 M400 145 V190 M400 270 V320 H580 V255 M580 145 V205"/>
+<path d="M400 190 L425 230 L400 270 L375 230 Z M400 207 V250 M393 240 L400 251 L407 240"/>
+<rect x="567" y="205" width="26" height="50"/>
+<path d="M740 145 V205 M740 255 V350 M900 145 V205 M900 255 V350"/>
+<rect x="727" y="205" width="26" height="50"/><rect x="887" y="205" width="26" height="50"/>
+<path d="M724 350 H756 M729 357 H751 M735 364 H745 M884 350 H916 M889 357 H911 M895 364 H905"/>
+<path d="M400 320 V375 M400 425 V470 H600 V408 M600 392 V320 H580"/>
+<rect x="387" y="375" width="26" height="50"/>
+<path d="M579 392 H621 M579 408 H621 M400 470 V480 M384 480 H416 M389 487 H411 M395 494 H405"/>
+</g>
+<g fill="#16324f"><circle cx="185" cy="180" r="4"/><circle cx="400" cy="145" r="4"/><circle cx="580" cy="145" r="4"/><circle cx="740" cy="145" r="4"/><circle cx="900" cy="145" r="4"/><circle cx="400" cy="320" r="4"/><circle cx="580" cy="320" r="4"/><circle cx="400" cy="470" r="4"/></g>
+</svg>
