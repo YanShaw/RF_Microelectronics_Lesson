@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480" viewBox="0 0 760 480">
+<rect width="760" height="480" fill="white"/>
+<g fill="none" stroke="#19334b" stroke-width="3" stroke-linejoin="round">
+<path d="M400 65V100L390 110L410 125L390 140L410 155L390 170L400 180V225H375V260"/>
+<path d="M375 300V330H400V395M355 250V310M375 260V300M160 280H355"/>
+<path d="M385 395H415M390 403H410M395 411H405M400 210H570"/>
+<path d="M440 230V259M434 248L440 261L446 248"/>
+<path d="M375 280H480V365H400M390 274L378 280L390 286"/>
+<circle cx="400" cy="65" r="4" fill="#19334b"/>
+<circle cx="160" cy="280" r="4" fill="#19334b"/>
+<circle cx="400" cy="210" r="4" fill="#19334b"/>
+<circle cx="400" cy="365" r="4" fill="#19334b"/>
+</g>
+<g font-family="Arial, sans-serif" font-size="20" fill="#19334b">
+<text x="265" y="35" font-size="25">NMOS resistive-load bias</text>
+<text x="425" y="72">VDD = 1.2 V</text><text x="432" y="146">RD</text>
+<text x="580" y="218">VD = Vout</text><text x="450" y="270">ID</text>
+<text x="82" y="265">VG = 0.6 V</text><text x="310" y="273">G</text>
+<text x="345" y="239">D</text><text x="345" y="332">S</text>
+<text x="491" y="353">B tied to S</text><text x="424" y="393">VS = VB = 0</text>
+<text x="75" y="454" font-size="17">Channel shown schematically; gate is insulated. ID flows from drain to source.</text>
+</g></svg>
