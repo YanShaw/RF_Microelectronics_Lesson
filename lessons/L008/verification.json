@@ -1,0 +1,20 @@
+{
+  "example_A_rms_uV": {
+    "-1": 1.0,
+    "0": 5.0,
+    "1": 7.0
+  },
+  "example_B_rms_uV": 0.6324555320336759,
+  "example_B_400kHz_rms_uV": 1.2649110640673518,
+  "example_B_gain10_rms_uV": 6.324555320336758,
+  "homework2_sum_rms_uV": 6.4031242374328485,
+  "homework2_difference_rms_uV": 4.123105625617661,
+  "homework3_max_bandwidth_Hz": 249999.99999999994,
+  "checkpoint_parallel_ohm": 2857.1428571428573,
+  "checkpoint_gate_gain": -5.714285714285714,
+  "checkpoint_source_gain_10k": -5.194805194805196,
+  "checkpoint_source_gain_100k": -2.857142857142857,
+  "checkpoint_output_noise_uV": 3.285483283291823,
+  "checkpoint_changed_output_noise_uV": 1.8070158058105024,
+  "checkpoint_rho05_rms_uV": 6.082762530298219
+}
